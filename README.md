@@ -1,7 +1,7 @@
 # Germany Tourism Form
 Welcome to the Germany Tourism Form project! This web application is designed to collect and store user details for individuals interested in exploring the beauty of Germany. Whether you're planning a future trip or simply want to learn more about the country, this form makes it easy to submit your information.
 
-Table of Contents
+Table of Contents:
 Introduction
 Features
 Technologies Used
